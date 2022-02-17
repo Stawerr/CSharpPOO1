@@ -38,6 +38,7 @@ namespace CSharpPOO1
             listaPessoas.Add(p4);
             listaPessoas.Add(new Pessoa("jonh", "john@atec.pt", 0, 0));
 
+
             // listaPessoas.RemoveAt(6); remove uma pessoa
 
             for (int i = 0; i < listaPessoas.Count; i++)
